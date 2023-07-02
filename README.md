@@ -3,6 +3,6 @@ Espaço dedicado ao armazenamento das atividades desenvolvidas no módulo de Jav
 
 ## Organização
 Para manter a organização do repositório, cada atividade será armazenada em pastas específicas, nomeadas de acordo com o padrão: 
-[Identificador da atividade] Data
+[Módulo X] Data
 
-Além disso, foi adotado o seguinte padrão de commit: Tipo de commit: ID da atividade - Data (turma)
+Além disso, foi adotado o seguinte padrão de commit: Tipo de commit: ID do módulo - ID da atividade - Data (turma)
