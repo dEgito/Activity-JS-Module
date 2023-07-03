@@ -6,7 +6,7 @@ a) Exibir no console o total de itens.
 b) Exibir no console os itens nas posições: 1, 3, 5, 8.
 */
 
-let fibonacchi = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55];
+const fibonacchi = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55];
 
 console.log(`Tamanho do array: ${fibonacchi.length}`);
 

@@ -7,7 +7,7 @@ b)Exibir no console os itens nas posições : 1, 2, 6, 8.
 c)Exibir no console o item na última posição.
 */
 
-let songs = [
+const songs = [
   "Never let me down again",
   "Diga, parte 2",
   "When it breaks",

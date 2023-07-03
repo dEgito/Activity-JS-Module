@@ -7,7 +7,7 @@ b) Exibir no console os itens nas posições: 2, 4.
 c) Exibir no console o item na primeira posição.
 */
 
-let movies = [
+const movies = [
   "Barbie",
   "Red: Crescer é uma Fera",
   "Nimona",
