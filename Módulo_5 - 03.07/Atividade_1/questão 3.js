@@ -7,11 +7,18 @@ b)Exibir no console os itens nas posições : 1, 2, 6, 8.
 c)Exibir no console o item na última posição.
 */
 
-let songs = ['Never let me down again', 'Diga, parte 2', 'When it breaks', 'The River', 'Hopelessly Hopeful', 'A Estação']
+let songs = [
+  "Never let me down again",
+  "Diga, parte 2",
+  "When it breaks",
+  "The River",
+  "Hopelessly Hopeful",
+  "A Estação",
+];
 
-let last = songs.length - 1 //ANOTAÇÃO: pega a quantidade de itens e retira 1, já que o array começa a contar do 0
+let last = songs.length - 1; //ANOTAÇÃO: pega a quantidade de itens e retira 1, já que o array começa a contar do 0
 
-console.log(last)
+console.log(last);
 console.log(`Tamanho do array: ${songs.length}`);
 
 console.log(`Posição 1: ${songs[1]}`);
