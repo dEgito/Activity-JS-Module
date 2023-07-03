@@ -4,6 +4,9 @@
 // a) Se o valor for menor que zero, mostrar: O valor número é um Número negativo.
 // b) Se o valor for maior ou igual a zero, mostrar: O valor número é um Número positivo.
 
+// Teste para usar o prompt via terminal
+//const prompt = require('prompt-sync')({sigint: true})
+
 let number = parseFloat(prompt("Digite um número: "));
 
 function CheckNumber(number) {
